@@ -1,0 +1,13 @@
+d:\documents\visual studio 2013\Projects\PicoPlaca\PicoPlaca\bin\Debug\PicoPlaca.exe.config
+d:\documents\visual studio 2013\Projects\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\PicoPlaca\PicoPlaca\bin\Debug\PicoPlaca.exe
+d:\documents\visual studio 2013\Projects\PicoPlaca\PicoPlaca\bin\Debug\PicoPlaca.pdb
+d:\documents\visual studio 2013\Projects\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.exe
+d:\documents\visual studio 2013\Projects\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.pdb
+d:\documents\visual studio 2013\Projects\PicoPlaca\PicoPlaca\bin\Debug\Registration.dll
+d:\documents\visual studio 2013\Projects\PicoPlaca\PicoPlaca\bin\Debug\Schedule.dll
+d:\documents\visual studio 2013\Projects\PicoPlaca\PicoPlaca\bin\Debug\Registration.pdb
+d:\documents\visual studio 2013\Projects\PicoPlaca\PicoPlaca\bin\Debug\Schedule.pdb
+d:\documents\visual studio 2013\Projects\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.PicoPlaca.resources

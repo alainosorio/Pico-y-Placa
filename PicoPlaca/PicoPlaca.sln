@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicoPlaca", "PicoPlaca\PicoPlaca.csproj", "{2FAB75CB-4517-43EA-8EF3-5C9A6E52D33B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registration", "Registration\Registration.csproj", "{F55F5D1F-A806-4748-BDC5-3ADF08AAEF94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schedule", "Schedule\Schedule.csproj", "{7E446850-0A8D-4501-9573-9E6ABCEF8915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FAB75CB-4517-43EA-8EF3-5C9A6E52D33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FAB75CB-4517-43EA-8EF3-5C9A6E52D33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FAB75CB-4517-43EA-8EF3-5C9A6E52D33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FAB75CB-4517-43EA-8EF3-5C9A6E52D33B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55F5D1F-A806-4748-BDC5-3ADF08AAEF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55F5D1F-A806-4748-BDC5-3ADF08AAEF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55F5D1F-A806-4748-BDC5-3ADF08AAEF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55F5D1F-A806-4748-BDC5-3ADF08AAEF94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E446850-0A8D-4501-9573-9E6ABCEF8915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E446850-0A8D-4501-9573-9E6ABCEF8915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E446850-0A8D-4501-9573-9E6ABCEF8915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E446850-0A8D-4501-9573-9E6ABCEF8915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

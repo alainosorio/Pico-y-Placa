@@ -1,0 +1,7 @@
+d:\documents\visual studio 2013\Projects\PicoPlaca\Schedule\bin\Debug\Schedule.dll
+d:\documents\visual studio 2013\Projects\PicoPlaca\Schedule\bin\Debug\Schedule.pdb
+d:\documents\visual studio 2013\Projects\PicoPlaca\Schedule\obj\Debug\Schedule.dll
+d:\documents\visual studio 2013\Projects\PicoPlaca\Schedule\obj\Debug\Schedule.pdb
+d:\documents\visual studio 2013\Projects\PicoPlaca\Schedule\bin\Debug\Registration.dll
+d:\documents\visual studio 2013\Projects\PicoPlaca\Schedule\bin\Debug\Registration.pdb
+d:\documents\visual studio 2013\Projects\PicoPlaca\Schedule\obj\Debug\Schedule.csprojResolveAssemblyReference.cache

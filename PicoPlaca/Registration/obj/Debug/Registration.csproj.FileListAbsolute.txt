@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\PicoPlaca\Registration\obj\Debug\Registration.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\PicoPlaca\Registration\bin\Debug\Registration.dll
+d:\documents\visual studio 2013\Projects\PicoPlaca\Registration\bin\Debug\Registration.pdb
+d:\documents\visual studio 2013\Projects\PicoPlaca\Registration\obj\Debug\Registration.dll
+d:\documents\visual studio 2013\Projects\PicoPlaca\Registration\obj\Debug\Registration.pdb
